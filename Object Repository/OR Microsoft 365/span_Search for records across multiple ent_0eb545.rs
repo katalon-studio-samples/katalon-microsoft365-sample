@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Search for records across multiple ent_0eb545</name>
+   <tag></tag>
+   <elementGuidId>90d85abb-2503-4cf1-bffb-42914f9822cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='quickCreateLauncher_buttoncrm_header_global$button']/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5ca13525-1070-41fd-888b-2580455b7c43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>symbolFont New-symbol pa-dn pa-do </value>
+      <webElementGuid>973799bd-79ff-4749-ab2d-38c87d7b19f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;quickCreateLauncher_buttoncrm_header_global$button&quot;)/span[@class=&quot;pa-bd pa-am pa-a pa-dj&quot;]/span[@class=&quot;pa-ba pa-k pa-am pa-ej&quot;]/span[@class=&quot;symbolFont New-symbol pa-dn pa-do&quot;]</value>
+      <webElementGuid>987e4248-0c84-4a77-ab52-6a4f6eecae1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='quickCreateLauncher_buttoncrm_header_global$button']/span/span/span</value>
+      <webElementGuid>bd6a81a9-76f4-43f2-a421-ca82fece08d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/button/span/span/span</value>
+      <webElementGuid>db37bff8-fe83-4445-8b2d-56ac856a2c22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

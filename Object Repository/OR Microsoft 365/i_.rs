@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_</name>
+   <tag></tag>
+   <elementGuidId>54387459-9de0-4bc8-8cc1-81b25cf146bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ms-Check.check-313 > i.ms-Icon.root-94.css-206.ms-Check-check.check-309</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Created On'])[1]/following::i[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>45e1d39a-8793-4269-a66a-e6ace28d016d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon-name</name>
+      <type>Main</type>
+      <value>StatusCircleCheckmark</value>
+      <webElementGuid>90f3722f-807a-4818-92a1-8b56cc1d14f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c0da0d37-116c-4af3-84dd-e4105c0086b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Icon root-94 css-206 ms-Check-check check-309</value>
+      <webElementGuid>df4843fe-f863-4920-92e8-6a78ee2d70f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>3c822a32-c1fd-4c7d-950d-064b2ca13ca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;entity_control-pcf_grid_control_container&quot;)/div[1]/div[@class=&quot;pcf-grid root-272&quot;]/div[@class=&quot;ag-theme-balham&quot;]/div[@class=&quot;ms-FocusZone css-273&quot;]/div[1]/div[@class=&quot;ag-root-wrapper ag-layout-normal ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-normal ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal&quot;]/div[@class=&quot;ag-body-viewport ag-layout-normal ag-row-no-animation ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row-even ag-row ag-row-level-0 ag-row-position-absolute ag-row-first ag-after-created ag-row-hover ag-row-focus&quot;]/div[@class=&quot;ag-cell ag-cell-not-inline-editing ag-cell-normal-height status-cell ag-cell-value ag-cell-focus ag-cell-range-selected ag-cell-range-selected-1 ag-cell-range-single-cell&quot;]/div[@class=&quot;ag-react-container&quot;]/div[@class=&quot;ms-Stack css-312&quot;]/span[@class=&quot;RowSelectionCheckMarkSpan checkMark-310&quot;]/div[@class=&quot;ms-Check check-313&quot;]/i[@class=&quot;ms-Icon root-94 css-206 ms-Check-check check-309&quot;]</value>
+      <webElementGuid>23f92025-d0b3-4c20-bbaf-63c315c5bd27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created On'])[1]/following::i[4]</value>
+      <webElementGuid>c397a668-da6e-4b62-930b-d651d9a466ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Reason'])[1]/following::i[5]</value>
+      <webElementGuid>ea1221c9-561f-4305-8785-12354270a296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Lead'])[1]/preceding::i[1]</value>
+      <webElementGuid>6af1d09e-a64c-429a-9c55-b396f498ddc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[2]/preceding::i[1]</value>
+      <webElementGuid>980cb888-06b4-4b44-905f-fe3e05765291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='entity_control-pcf_grid_control_container']/div/div/div/div/div/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/div/div/span/div/i[2]</value>
+      <webElementGuid>b6d2314d-592c-4aff-9918-565d0e0086cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/span/div/i[2]</value>
+      <webElementGuid>87329f3b-b07f-4975-b32d-5791b601fabf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

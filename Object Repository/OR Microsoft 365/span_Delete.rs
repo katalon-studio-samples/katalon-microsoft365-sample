@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Delete</name>
+   <tag></tag>
+   <elementGuidId>86021102-7f15-443a-81d2-e19b7a897acf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect sequence'])[1]/following::span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fdbf46eb-1638-4cac-a789-bcd03822be6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pa-dp pa-dl pa-dq pa-bq pa-e pa-bs pa-dr pa-ds </value>
+      <webElementGuid>6da1c752-4356-4cb6-a833-bb5665f3fdce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>7c32cc05-8229-4b39-8ae7-5d768456c550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lead|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.lead.DeleteMenu.Menu$button2&quot;)/span[@class=&quot;pa-bd pa-am pa-a pa-dj&quot;]/span[@class=&quot;pa-dp pa-dl pa-dq pa-bq pa-e pa-bs pa-dr pa-ds&quot;]</value>
+      <webElementGuid>c5edaa99-6d2a-447c-b92f-e72f16d2835f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect sequence'])[1]/following::span[3]</value>
+      <webElementGuid>362a0a91-caca-4770-b43b-e9f083317af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Press Enter to open flyout'])[3]/following::span[6]</value>
+      <webElementGuid>0be0d5a8-a62a-45c3-b198-3da1bb6ed90b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete these Leads. This action cannot be undone.'])[1]/preceding::span[1]</value>
+      <webElementGuid>0649534d-4f7d-4aea-8987-36aca7479eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete these Leads. This action cannot be undone.'])[2]/preceding::span[6]</value>
+      <webElementGuid>a999ae01-9e54-4da7-8295-e4f6d5d79c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
+      <webElementGuid>64fc76e0-d782-4efe-b69c-e91fe5bd6f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='lead|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.lead.DeleteMenu.Menu$button2']/span/span[2]</value>
+      <webElementGuid>e792e23e-c800-4547-9f0d-2842f6272321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/button/span/span[2]</value>
+      <webElementGuid>32387ff0-6355-4978-8157-b8679b60bca7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

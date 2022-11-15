@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test for Creating and Deleting a Lead</description>
+   <name>TC Creating and Deleting a Lead</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dde0a03d-83a9-4090-b5a8-10624a763418</testCaseGuid>
+</TestCaseEntity>

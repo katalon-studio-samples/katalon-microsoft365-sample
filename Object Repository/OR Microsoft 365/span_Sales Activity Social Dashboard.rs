@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sales Activity Social Dashboard</name>
+   <tag></tag>
+   <elementGuidId>d39708c1-8cff-4eaa-9039-d312684c7e02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Dashboard_Selector_9ebfa0dd-68df-4577-a7cf-9dc6020cd341_text-value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='Dashboard_Selector_9ebfa0dd-68df-4577-a7cf-9dc6020cd341_text-value']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c7f1a835-9651-414e-ab1d-e02c6ff24bf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Dashboard_Selector_9ebfa0dd-68df-4577-a7cf-9dc6020cd341_text-value</value>
+      <webElementGuid>eb351eed-caa5-40d3-bdff-a4e5e1281e19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pa-cm pa-e pa-bs </value>
+      <webElementGuid>ea29e512-f648-4562-aadc-32723e71b762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sales Activity Social Dashboard</value>
+      <webElementGuid>14de9001-9ffd-4b83-a67b-6bfcb3ba6684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Dashboard_Selector_9ebfa0dd-68df-4577-a7cf-9dc6020cd341_text-value&quot;)</value>
+      <webElementGuid>bef4dad1-d35b-40b2-9467-a38aa0a5a410</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='Dashboard_Selector_9ebfa0dd-68df-4577-a7cf-9dc6020cd341_text-value']</value>
+      <webElementGuid>8c816003-8db5-4992-b8ef-40de989373d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh All'])[1]/following::span[1]</value>
+      <webElementGuid>397d7bee-134f-4fbe-8c12-2d99fe853e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set As Default'])[1]/following::span[4]</value>
+      <webElementGuid>e7f69cb8-4131-4d21-9f1a-8996c61c04d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This dashboard has 6 components, scroll down to load all content'])[1]/preceding::span[4]</value>
+      <webElementGuid>8d6daf24-4c1c-4ea0-ae8b-c95511a1d2b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Open Opportunities'])[1]/preceding::span[5]</value>
+      <webElementGuid>81292c33-6102-418b-9211-448901138622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sales Activity Social Dashboard']/parent::*</value>
+      <webElementGuid>625a1380-9534-4ba5-8a2a-e936b48c4975</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Dashboard_Selector_9ebfa0dd-68df-4577-a7cf-9dc6020cd341_text']/div/span</value>
+      <webElementGuid>b3347d70-cada-469c-84c7-dff2a598211e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/div/div/span</value>
+      <webElementGuid>cb9c243c-7f4f-48c0-95ca-6d536caad186</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

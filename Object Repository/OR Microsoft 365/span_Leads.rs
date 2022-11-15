@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Leads</name>
+   <tag></tag>
+   <elementGuidId>de82b0cc-4bfc-437c-b490-396d2bc4dc89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Contacts'])[1]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2ee2a213-ed96-4559-a204-2e5c61c5db0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pa-ex pa-o pa-fl pa-dk pa-cy pa-ds pa-bq pa-bc pa-bs </value>
+      <webElementGuid>75ec3c1d-8c13-40b1-9fc7-eaf564b9ec62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Leads</value>
+      <webElementGuid>dea14042-3027-4bd0-a91f-eb1c9e09835a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sitemap-entity-nav_leads&quot;)/div[@class=&quot;pa-a pa-am pa-en pa-eo pa-dl pa-w pa-ep pa-eq pa-er pa-es pa-et pa-fw pa-fx flexbox&quot;]/div[@class=&quot;pa-a pa-eu pa-ev pa-w pa-f pa-o pa-bc pa-ew flexbox&quot;]/div[@class=&quot;pa-bd pa-e pa-o pa-fh flexbox&quot;]/span[@class=&quot;pa-ex pa-o pa-fl pa-dk pa-cy pa-ds pa-bq pa-bc pa-bs&quot;]</value>
+      <webElementGuid>02223865-9b0c-4127-8c3c-8421a173bd80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contacts'])[1]/following::span[2]</value>
+      <webElementGuid>9a4cffc2-80be-4047-b6d6-c83348364f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opportunities'])[1]/preceding::span[2]</value>
+      <webElementGuid>4074c88e-729b-4b5b-94b4-a52ba06fc293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Competitors'])[1]/preceding::span[4]</value>
+      <webElementGuid>e98e048d-bd23-4a88-bc69-339ba1554ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Leads']/parent::*</value>
+      <webElementGuid>31b41723-6b94-42c6-a5f0-1feb564d20a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sitemap-entity-nav_leads']/div/div/div[2]/span[2]</value>
+      <webElementGuid>efe14e35-f54f-407b-aa04-9d5adbb56dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li/div/div/div[2]/span[2]</value>
+      <webElementGuid>7afce5ba-0fc3-477a-82c7-44c9ef064327</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

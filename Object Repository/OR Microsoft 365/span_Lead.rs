@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lead</name>
+   <tag></tag>
+   <elementGuidId>b1719dcd-1b1a-44f5-b676-f3591f9368e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bace9e8b-f9db-4541-8764-f90fcbebb676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pa-dp pa-dl pa-dq pa-ds pa-bq pa-e pa-bs pa-nt </value>
+      <webElementGuid>586173aa-a7fd-49c3-a015-e389699df2d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lead</value>
+      <webElementGuid>9a645808-26b5-4ffd-b350-9d3a4f523a9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id-90-button&quot;)/span[@class=&quot;pa-bd pa-o pa-am pa-a pa-dj&quot;]/span[@class=&quot;pa-dp pa-dl pa-dq pa-ds pa-bq pa-e pa-bs pa-nt&quot;]</value>
+      <webElementGuid>6adf92cb-a06d-4098-a57f-65f1a002228c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::span[1]</value>
+      <webElementGuid>33583a99-ab14-4bce-9747-c3e9ad96ecbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default quick create form for Knowledge Article'])[1]/following::span[4]</value>
+      <webElementGuid>1856c11d-be44-41db-9121-c82a1800045e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default quick create form for Lead'])[1]/preceding::span[1]</value>
+      <webElementGuid>d35bd8bd-6107-4a3d-a847-d0d1c43a8185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::span[2]</value>
+      <webElementGuid>3c8cddf0-318e-4983-a3f8-940a672495c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lead']/parent::*</value>
+      <webElementGuid>9552a178-d9fc-465a-8408-136916055d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='id-90-button']/span/span[2]</value>
+      <webElementGuid>d1e5cfa5-7df3-4056-a062-079a2830f586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[14]/button/span/span[2]</value>
+      <webElementGuid>7c45f553-377d-4546-a4bf-60a6c8437e10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
