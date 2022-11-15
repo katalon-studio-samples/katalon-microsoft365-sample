@@ -1,0 +1,1 @@
+# katalon-microsoft365-sample
