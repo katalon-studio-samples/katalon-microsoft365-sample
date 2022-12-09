@@ -1,5 +1,5 @@
 
-# Introduction:**
+# Introduction
 
 This project demonstrates how katalon studio helps users to automate Microsoft Dynamic 365 applications. it contains some test cases for the powerBI.
 Becuase of very dynamic nature of the PowerBI DOM structure sometime user need to made some necessary change before recodring the test cases.
