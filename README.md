@@ -1,27 +1,29 @@
-# katalon-microsoft365-sample
-**Introduction:**
 
-In this article we are focusing on how katalon studio helps users to automate Microsoft 365 applications.
+# Introduction:**
 
-**Let’s begin-**
+This project demonstrates how katalon studio helps users to automate Microsoft Dynamic 365 applications. it contains some test cases for the powerBI.
+Becuase of very dynamic nature of the PowerBI DOM structure sometime user need to made some necessary change before recodring the test cases.
 
-**Use case: **
+# Requriments
 
-Create and Delete a lead in Microsoft 365 account
+* Katalon Studio
+* Users should have an active Microsoft 365 account.
+
+# Use case
+
+* Create and Delete a lead in Microsoft 365 account
 
 
-**Prerequisite:**
-Users should have an active Microsoft 365 account.
 
+# How to automate
 
-**How to automate:**
-Record test script via katalon recorder.
+* Record test script via katalon recorder.
 
-Save test objects and test cases.
+* Save test objects and test cases.
 
-Run the test script on the browser.
+* Run the test script on the browser.
 
-Verify the test result.
+* Verify the test result.
 
 
 
