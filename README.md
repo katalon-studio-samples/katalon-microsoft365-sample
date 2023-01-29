@@ -13,18 +13,24 @@ This project demonstrates how katalon studio helps users to automate Microsoft D
 * Create and Delete a lead in Microsoft 365 account
 
 
-
 # How to automate
 
-* Record test script via katalon recorder.
+**Costomize Setting before recording a test case**
+
+* Go to project >> Settings >> Test Design >> WebUI and Change the priority of Xpath Locators.
+
+![image](https://user-images.githubusercontent.com/84115288/214218084-b99e47c5-be63-49ad-89c2-fb4bcbcebb83.png)
+
+
+* Record test script via Katalon Recorder.
 
 * Save test objects and test cases.
 
-* Run the test script on the browser.
+* Run the test on the browser.
 
 * Verify the test result.
 
-
+**After Recording a test case if execution is failing because of "Element not interactable" exception then please change keyword "Click" to "Enhanced Click"**
 
 
 **Repository for the Sample Project:**
