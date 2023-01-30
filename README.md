@@ -5,7 +5,7 @@ This project demonstrates how katalon studio helps users to automate Microsoft D
 
 # Requirements
 
-* Katalon Studio
+* [Katalon Studio][KS]
 * Users should have an active Microsoft 365 account.
 
 # Use case
@@ -50,4 +50,4 @@ This project demonstrates how katalon studio helps users to automate Microsoft D
 **Repository for the Sample Project:**
 https://github.com/katalon-studio-samples/katalon-microsoft365-sample.git
 
-Thanks.
+[KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
