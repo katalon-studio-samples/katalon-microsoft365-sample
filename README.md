@@ -47,7 +47,7 @@ This project demonstrates how katalon studio helps users to automate Microsoft D
 * Verify the test execution result.[Here][3]
 
 
-**Repository for the [Sample Project][SP]:**
+**Repository for the [Sample Project][SP].**
 
 [SP]: <https://github.com/katalon-studio-samples/katalon-microsoft365-sample.git> "Sample Project"
 
