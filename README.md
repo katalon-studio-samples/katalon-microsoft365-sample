@@ -46,11 +46,6 @@ This project demonstrates how katalon studio helps users to automate Microsoft D
 
 * Verify the test execution result.[Here][3]
 
-
-**Repository for the [Sample Project][SP].**
-
-[SP]: <https://github.com/katalon-studio-samples/katalon-microsoft365-sample.git> "Sample Project"
-
 [KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
 [1]: <https://docs.katalon.com/docs/maintain/self-healing-tests-in-katalon-studio#configure-test-design> "Here"
 
